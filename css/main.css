@@ -772,7 +772,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 }
 .ss-error {
 	background-color: #ffd1d2;
-	color: #e65153;
+	color: #00ff15;
 }
 .ss-success {
 	background-color: #c8e675;
