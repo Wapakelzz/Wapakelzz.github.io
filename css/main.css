@@ -2126,7 +2126,7 @@ header .logo a {
 	color: rgba(255, 255, 255, 0.6);
 }
 
-/* pagination */
+
 .owl-pagination {
 	text-align: center;
 	width: 100%;
@@ -2149,12 +2149,7 @@ header .logo a {
 }
 
 
-/** 
- * ===================================================================
- * 16. stats - (_layout.scss)
- *
- * ------------------------------------------------------------------- 
- */
+
 #stats {
 	background: #990047;
 	padding-top: 7.2rem;
@@ -2187,11 +2182,7 @@ header .logo a {
 	color: rgba(255, 255, 255, 0.5);
 }
 
-/**
- * responsive:
- * stats
- * -------------------------------------------------------------------
- */
+
 @media only screen and (max-width:1024px) {
 	#stats .stat:nth-child(n) {
 		border-left: 1px solid rgba(255, 255, 255, 0.12);
@@ -2216,12 +2207,7 @@ header .logo a {
 }
 
 
-/** 
- * ===================================================================
- * 17. contact - (_layout.scss)
- *
- * ------------------------------------------------------------------- 
- */
+
 #contact {
 	background: #151515;
 	padding-top: 12rem;
